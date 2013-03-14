@@ -5,7 +5,7 @@
 int main(int argc, char * argv[])
 {
 	int status;
-
+	int i;
 	pid_t pid;
 
 	for(i=0; i<argc; i++)
